@@ -1,2 +1,1 @@
-a = int(input()) - 543
-print(a)
+print(int(input()) - 543)
